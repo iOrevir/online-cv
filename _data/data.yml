@@ -61,7 +61,6 @@ education:
       details: |
         Alterations of heme synthesis by xenobiotics: liver damage and metabolic implications
         Department of Biological Chemistry. University of Buenos Aires.
-
 experiences:
     - role: PostDoc position
       time: 2019 - Present
@@ -87,7 +86,7 @@ experiences:
       details: |
         Laboratory of Metabolic Disturbances by Xenobiotics
    
- projects:
+projects:
     title: Projects / Communities
     intro: Some projects I am involved
 
@@ -108,11 +107,11 @@ experiences:
         link: "https://twitter.com/R4DS_es"
         tagline: "Participant in the translation of R4DS book to Spanish"
 
-       - title: Reproducibility Hackatons (ReproHack)
+      - title: Reproducibility Hackatons (ReproHack)
         link: "https://twitter.com/ReproHack"
         tagline: "Team member"
 
-       - title: LatinR Conference
+      - title: LatinR Conference
         link: "www.latin-r.com"
         tagline: "Chair 2020 / Organizing Committe 2019 - 2018"
         
