@@ -87,21 +87,9 @@ experiences:
       details: |
         Laboratory of Metabolic Disturbances by Xenobiotics
    
-   
-       
-publications:
-    title: Co-organizing
-    intro: 
-    
-    assignments:
-    - title: LatinR Conference
-        link: "www.latin-r.com"
-        tagline: "Chair edition 2020 / Organizing Committee 2018-2019"
-        
-   
-projects:
+ projects:
     title: Communities
-    intro: 
+    intro: |
 
     assignments:
       - title: R-Ladies Buenos Aires / Global Team
@@ -124,6 +112,15 @@ projects:
         link: "https://www.meetup.com/es-ES/rladies-buenos-aires"
         tagline: "Team member"
 
-
+publications:
+    title: Conferences
+    intro: |
+    
+papers:
+      - title: LatinR Conference
+        link: "www.latin-r.com"
+        conference: Chair edition 2020 / Organizing Committee 2018-2019
+        
+   
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
