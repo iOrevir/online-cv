@@ -88,8 +88,8 @@ experiences:
         Laboratory of Metabolic Disturbances by Xenobiotics
    
  projects:
-    title: Communities
-    intro: |
+    title: Projects / Communities
+    intro: 
 
     assignments:
       - title: R-Ladies Buenos Aires / Global Team
@@ -109,9 +109,12 @@ experiences:
         tagline: "Participant in the translation of R4DS book to Spanish"
 
        - title: Reproducibility Hackatons (ReproHack)
-        link: "https://www.meetup.com/es-ES/rladies-buenos-aires"
+        link: "https://twitter.com/ReproHack"
         tagline: "Team member"
 
+       - title: LatinR Conference
+        link: "www.latin-r.com"
+        tagline: "Chair 2020 / Organizing Committe 2018 - 2019"
         
    
 footer: >
