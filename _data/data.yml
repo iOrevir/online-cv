@@ -91,30 +91,37 @@ projects:
     intro: Some projects I am involved
 
     assignments:
-      - title: R-Ladies Buenos Aires / Global Team
-        link: "https://www.meetup.com/es-ES/rladies-buenos-aires"
+    
+      - title: Chair LatinR Conference
+        link: "https://latin-r.com"
+        tagline: "Chair 2020 / Organizing Committe 2019 - 2018"
+        
+        
+      - title: R-Ladies Buenos Aires + Global Team
+        link: "https://rladies.org/about-us/team/"
         tagline: "Co-organizer"
+        
+        
+      - title: Reproducibility Hackatons (ReproHack)
+        link: "https://twitter.com/ReproHack"
+        tagline: "Founder team member"
+        
+        
+      - title: The Carpentries
+        link: "https://carpentries.org"
+        tagline: "Certified Instructor - Participant in translations of the lessons to Spanish"
+        
         
       - title: R en Buenos Aires
         link: "https://renbaires.github.io/"
         tagline: "R user group in Buenos Aires. Co-organizer"
 
-      - title: The Carpentries
-        link: "https://carpentries.org"
-        tagline: "Certified Instructor - Participant in translations of the lessons to Spanish"
-        
+     
       - title: R para Ciencia de Datos
         link: "https://twitter.com/R4DS_es"
         tagline: "Participant in the translation of R4DS book to Spanish"
 
-      - title: Reproducibility Hackatons (ReproHack)
-        link: "https://twitter.com/ReproHack"
-        tagline: "Team member"
 
-      - title: LatinR Conference
-        link: "https://latin-r.com"
-        tagline: "Chair 2020 / Organizing Committe 2019 - 2018"
-        
    
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
