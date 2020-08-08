@@ -7,47 +7,62 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Florencia D'Andrea
-    tagline: PhD in Biological Sciences
-    avatar: template_primary.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Enrique Israel Rivero Puente
+    tagline: M. Sc. in Economics and Management of Network Industries
+    avatar: _MG_1922.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
   #  email: @gmail.com
   #  phone: 012 345 6789
-    website: florencia.netlify.com #do not add http://
-    linkedin: florenciadandrea
-    github: flor14
-    researchgate: Maria_Dandrea2
+  #  website: florencia.netlify.com #do not add http://
+    linkedin: eiriverop
+    github: iOrevir
+    researchgate: Enrique_Rivero2
   #  bitbucket:
-    twitter: '@cantoflor_87'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    researchgate: Maria_Dandrea2
+    twitter: '@ei_rivero'
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
+    #researchgate: Maria_Dandrea2
 
     languages:
       - idiom: Spanish
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Proficient
+        
+      - idiom: French
+        level: Intermediate
+        
+      - idiom: Dutch
+        level: Elementary
+        
+      - idiom: German
+        level: Elementary
 
-    interests:
-      - item: Nature
+    Hobbies:
+      - item: Read
         link:
         
-      - item: Acting classes
+      - item: Sports
         link:
 
-      - item: Travelling
+      - item: Technology testing
+        link:
+        
+      - item: Travel
+        link:
+        
+      - item: Tasks automation
         link:
 
 education:
-    - degree: PhD in Biological Sciences
-      university: University of Buenos Aires, Argentina
-      time: 2013 - 2019
+    - degree: Joint Master in Economics & Management of Network Industries
+      university: Comillas University (ICAI) - Madrid, Spain | Paris-SUD XI & Supélec - Paris, France
+      time: 2007 - 2009
       details: |
-        Ecotoxicological Risk Assessment of pesticides use in extensive crops on the biota of water bodies in the Pampa region, Argentina
+        xxxx
           
     - degree: Professor of Secondary and Higher Education in Biological Sciences
       university: University of Buenos Aires, Argentina
