@@ -7,9 +7,9 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Florencia D'Andrea
-    tagline: PhD in Biological Sciences
-    avatar: template_primary.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Enrique Israel Rivero Puente
+    tagline: M. Sc. in Economics and Management of Network Industries
+    avatar: _MG_1922.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
   #  email: @gmail.com
